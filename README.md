@@ -17,7 +17,7 @@ In addition, you can find the answers to each exercise, in a learning perspectiv
 
 Feel free to contribute to the repository and put a star if it was useful to you !
 
-## Authors
+## 👴 Authors
 
 - [@TheoM-e](https://www.github.com/TheoM-e)
 
